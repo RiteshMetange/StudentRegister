@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-        // backgroundColor: Color(0xffFFF0DC),
+        backgroundColor: Color(0xff070F2B),
       ),
     );
   }
