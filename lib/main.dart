@@ -1,3 +1,14 @@
+/*
+
+Title : Create a simple registration form
+Dev 1 : Ritesh Metange
+Dev 2 : Yash Sarode
+
+
+
+ */
+
+
 import 'package:flutter/material.dart';
 
 void main() {
